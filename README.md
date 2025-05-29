@@ -2,6 +2,11 @@
 # RAL Events iOS App
 
 This is an event aggregation application for the Raleigh area. This idea was built from a problem that I identified as a new Raleigh resident of needing to go through many websites and sources to explore all the events and activities going on across the event spaces in the city and surrounding areas. With this application, I hope to provide a one-stop-shop application for users to easily see an organized list of the actitvities and events occuring over the next couple months, and make it easier for people to stay social through the events that interest them!
+
+**Backend Repo**: [ral-events-backend](https://github.com/aghar11/ral-events-backend/tree/main)
+
+**Event Aggregator Repo**: [ral-events-web-scraper](https://github.com/aghar11/ral-events-web-scraper/tree/main)
+
 ## Features
 
 ### Iteration 1 (Current)
