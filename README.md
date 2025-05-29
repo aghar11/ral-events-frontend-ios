@@ -30,7 +30,7 @@ This is an event aggregation application for the Raleigh area. This idea was bui
 
 **Frontend:** SwiftUI
 
-**Backend:** Python, FastAPI, Pydantic
+**Backend:** Python, FastAPI, SQLAlchemy, Pydantic
 
 **Event Aggregator:** Python, PostgreSQL, Docker
 ## Authors
